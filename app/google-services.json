@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "994329114212",
+    "firebase_url": "https://fall-alert-det.firebaseio.com",
+    "project_id": "fall-alert-det",
+    "storage_bucket": "fall-alert-det.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:994329114212:android:1d3df3aba466f97a",
+        "android_client_info": {
+          "package_name": "com.example.wellbeing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "994329114212-5ej46okio7safh1ghue9oa5ofctafa64.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.wellbeing",
+            "certificate_hash": "4cdaf34ff45b4c342b0573cfafe8ab92cd50c87c"
+          }
+        },
+        {
+          "client_id": "994329114212-ksvt1sv62coiqilq0dsdqf44r305ambs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFKG9iu9TCvkh3p9Shp2_QcDIftKqy6N0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "994329114212-ksvt1sv62coiqilq0dsdqf44r305ambs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
